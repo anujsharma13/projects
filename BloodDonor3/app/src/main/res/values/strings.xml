@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">BloodDonor3</string>
+    <string name="heroes_saves_life_of_others">Heroes Saves Life Of Others</string>
+    <string name="new_register">new register</string>
+    <string name="login">login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_phone_number">enter phone number</string>
+    <string name="mobile_number">mobile number</string>
+    <string name="enter_otp">enter otp</string>
+    <string name="register">register</string>
+    <string name="enter_name">enter name</string>
+    <string name="enter_age">enter age</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="title_activity_afterlogin">afterlogin</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="email">Enter email</string>
+    <string name="select_bloodgroup">select bloodgroup</string>
+    <string name="select_bloodgroup1">Select BloodGroup</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_email1">Enter Email</string>
+    <string-array name="bloodgroup">
+        <item>A+ </item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB-</item>
+        <item>AB+</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+    <string name="title_activity_firstpage">firstpage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_first">first</string>
+    <string name="title_activity_first1">first1</string>
+    <string name="profile">profile</string>
+    <string name="bloodgroup">bloodgroup</string>
+    <string name="select_location">select location</string>
+    <string name="enter_name_of_city">enter name of city</string>
+    <string name="make_request">Make Request</string>
+    <string name="text1">TEXT1</string>
+    <string name="hello_user">hello user</string>
+    <string name="enter_your_details_so_that_if_someone_is_present_nearby_you_donate_blood">enter your details so that if someone is present nearby you donate blood</string>
+    <string name="enter_text_here">enter text here</string>
+    <string name="choose_image">choose image</string>
+    <string name="request">REQUEST</string>
+    <string name="need_help">Need Help</string>
+    <string name="myemail">for help-                 2000anujsharma@gmail.com / contact Mob-7696647363 /csecec.1801993@gmail.com</string>
+    <string name="login_1">LOGIN</string>
+    <string name="kindly_enter_your_details_to_become_an_donor_and_be_sure_that_the_information_provided_by_you_is_true_if_someone_need_blood_may_contact_you">Kindly enter your details to become an donor and be sure that the information provided by you is true if someone need blood may contact you</string>
+    <string name="enter_blood_group">enter blood group</string>
+    <string name="enter_name_of_state">enter name of state</string>
+    <string name="enter_name_of_country">enter name of country</string>
+    <string name="enter_your_feelings_message_to_all">enter your feelings/message to all</string>
+    <string name="submit">submit</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+    <string name="become_donor">Become donor</string>
+    <string name="select_country">select country</string>
+    <string name="select_state">select state</string>
+    <string name="select_city">select city</string>
+    <string name="country">country</string>
+    <string name="state">state</string>
+    <string name="city">city</string>
+    <string name="done">Done</string>
+    <string name="reciever_name">reciever name</string>
+    <string name="reciever_mobile">reciever mobile</string>
+    <string name="name">name</string>
+    <string name="gender">gender</string>
+    <string name="select_gender">select gender</string>
+    <string name="find_donor">find donor</string>
+    <string name="age">age</string>
+    <string name="back">back</string>
+    <string name="home">home</string>
+    <string name="user_proflie">user proflie</string>
+    <string name="settings">settings</string>
+    <string name="help">help</string>
+    <string name="complaint">complaint</string>
+    <string name="logout">logout</string>
+    <string-array name="user_profile">
+        <item> 1.home </item>
+        <item> 2.user profile   </item>
+        <item> 3.settings   </item>
+        <item> 4.help  </item>
+        <item> 5.complaint   </item>
+        <item> 6.logout  </item>
+    </string-array>
+    <string-array name="country">
+<item>India</item>
+    </string-array>
+    
+    <string-array name="state">
+
+    </string-array>
+    <string-array name="city">
+
+    </string-array>
+</resources>

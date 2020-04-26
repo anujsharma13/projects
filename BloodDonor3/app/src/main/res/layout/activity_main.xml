@@ -1,0 +1,35 @@
+<RelativeLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView
+        android:id="@+id/iv2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/front1"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+
+        android:alpha="1"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="@string/heroes_saves_life_of_others"
+        android:gravity="center_horizontal"
+
+        android:textSize="28sp"
+        android:padding="3dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        android:id="@+id/login_text"
+        />
+    <View
+        android:background="@color/colorPrimaryDark"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_below="@id/login_text"
+        android:layout_marginTop="6dp"
+        />
+</RelativeLayout>
